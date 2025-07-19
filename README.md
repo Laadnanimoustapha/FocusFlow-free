@@ -22,7 +22,6 @@ Stay focused, track emotions, complete tasks, and boost your vibe — all in one
 ## 📦 Files Included
 
 - `index.html` – Main app
-- `/assets` – Icons, sounds (optional)
 - `README.md` – You're reading it!
 
 ---
@@ -39,7 +38,7 @@ Stay focused, track emotions, complete tasks, and boost your vibe — all in one
 
 ## 🚀 Tech Stack
 
-- HTML + TailwindCSS
+- HTML + CSS
 - Vanilla JavaScript
 - LocalStorage (no backend required)
 
