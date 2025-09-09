@@ -1,5 +1,9 @@
 # FocusFlow – Mood-Based Productivity Dashboard 🧠💼
 
+[![Support Palestine](https://img.shields.io/badge/Support-Palestine-000000?labelColor=007A3D&color=CE1126)](#support-palestine)
+[![Free Palestine](https://img.shields.io/badge/Free-Palestine-CE1126?labelColor=000000&color=007A3D)](#support-palestine)
+
+
 **FocusFlow** is a responsive, offline-first productivity app that adapts to your mood.  
 No signups. No tracking. Just real focus, wherever you are.
 
@@ -86,3 +90,4 @@ For custom licensing, feel free to contact me.
 ---
 
 Made with 💻 and good vibes ✨
+
